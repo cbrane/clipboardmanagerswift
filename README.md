@@ -1,6 +1,7 @@
 # ClipboardManager
 
 ClipboardManager is a simple macOS application that monitors and manages your clipboard history. It runs in the background and allows you to access your recent clipboard items quickly and easily.
+Based off an amazing demo by Ricardo Mahfoud: https://x.com/imrat/status/1832805149489680762
 
 ## Features
 
